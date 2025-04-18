@@ -1,7 +1,4 @@
 # Mobile-PasswordManager
-
-# 🔐 SwiftUI Password Manager
-
 A lightweight and secure password manager built using **SwiftUI**, **SQLite**, and **CryptoKit**. The app lets you store, edit, and delete user credentials securely, with encryption and a smooth UI featuring half-sheet modals.
 
 ---
