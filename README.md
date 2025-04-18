@@ -22,9 +22,6 @@ A lightweight and secure password manager built using **SwiftUI**, **SQLite**, a
 - iOS 15+
 - Swift Package Manager
 
-### Installation
-Clone the repository:
-   ```bash
 (https://github.com/akashpallam13/Mobile-PasswordManager.git )
 Open the .xcodeproj or .xcworkspace file in Xcode.
 
