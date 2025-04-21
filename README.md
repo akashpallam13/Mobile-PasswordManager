@@ -52,7 +52,8 @@ HalfSheet.swift – Custom reusable half-sheet presentation
  Security
 Passwords are encrypted using AES-GCM with a randomly generated symmetric key at runtime (non-persisted). This is ideal for learning purposes, but for production apps consider secure key management using the Keychain or Secure Enclave.
 
-Home Screen | Add User | Password Toggle![Simulator Screenshot - iPhone 15 P![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 31 07]   (https://github.com/user-attachments/assets/f72b769c-f2cc-4e7d-9a9b-8611d127eb4f)
+Home Screen | Add User | Password Toggle
+![Simulator Screenshot - iPhone 15 P![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 31 07]   (https://github.com/user-attachments/assets/f72b769c-f2cc-4e7d-9a9b-8611d127eb4f)
  ro - 2025-04-18 at 19 30 45](https://github.com/user-attachments/assets/e333487a-6237-42d4-b793-a0e5afe2bd76)![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 30 58](https://github.com/user-attachments/assets/f4d4eea3-24eb-4041-bbaf-874f0af5fe74)
 
  ![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 30 50](https://github.com/user-attachments/assets/ab3e486d-ada1-4740-9cd1-e9ddd188097c)
