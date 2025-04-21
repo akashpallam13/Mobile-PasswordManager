@@ -49,13 +49,11 @@ AddUserView.swift – View to add new credentials
 
 UserDetailView.swift – View for viewing/editing a selected user
 
-<img src="![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 31 07](https://github.com/user-attachments/assets/fb9336cb-53d3-4191-86be-d441230972d3)" width="300" height="600"/>
-
-
-![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 30 58](https://github.com/user-attachments/assets/1b26872f-f59b-43ea-9e04-1add5b4ba0d7)
-![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 30 50](https://github.com/user-attachments/assets/c157f668-fb49-44e6-8ae9-3c2804c34ba6)
-![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 30 45](https://github.com/user-attachments/assets/9e40be1b-61b7-4786-b80f-3b4c2d6a6dc5)
-![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 30 40](https://github.com/user-attachments/assets/aef0c35d-1add-4d43-ba9e-7bf683a6b826)
+<img src="![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 31 07](https://github.com/user-attachments/assets/fb9336cb-53d3-4191-86be-d441230972d3)" ,
+"![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 30 58](https://github.com/user-attachments/assets/1b26872f-f59b-43ea-9e04-1add5b4ba0d7)",
+"![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 30 50](https://github.com/user-attachments/assets/c157f668-fb49-44e6-8ae9-3c2804c34ba6)",
+"![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 30 45](https://github.com/user-attachments/assets/9e40be1b-61b7-4786-b80f-3b4c2d6a6dc5)",
+"![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 30 40](https://github.com/user-attachments/assets/aef0c35d-1add-4d43-ba9e-7bf683a6b826)" width="300" height="600"/>
 
 
 HalfSheet.swift – Custom reusable half-sheet presentation
