@@ -49,7 +49,9 @@ AddUserView.swift – View to add new credentials
 
 UserDetailView.swift – View for viewing/editing a selected user
 
-![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 31 07](https://github.com/user-attachments/assets/fb9336cb-53d3-4191-86be-d441230972d3)
+<img src="![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 31 07](https://github.com/user-attachments/assets/fb9336cb-53d3-4191-86be-d441230972d3)" width="300" height="600"/>
+
+
 ![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 30 58](https://github.com/user-attachments/assets/1b26872f-f59b-43ea-9e04-1add5b4ba0d7)
 ![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 30 50](https://github.com/user-attachments/assets/c157f668-fb49-44e6-8ae9-3c2804c34ba6)
 ![Simulator Screenshot - iPhone 15 Pro - 2025-04-18 at 19 30 45](https://github.com/user-attachments/assets/9e40be1b-61b7-4786-b80f-3b4c2d6a6dc5)
